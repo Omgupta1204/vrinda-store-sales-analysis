@@ -55,7 +55,7 @@ The interactive Excel dashboard provides an overview of Vrinda Store's annual pe
 
 ### 📸 Dashboard Preview
 
-![Vrinda Store Annual Report 2022](C:\Users\dhruv\OneDrive\Pictures\Screenshots/Vrinda-Store-Dashboard.png)
+![Vrinda Store Annual Report 2022](Dashboard/Vrinda-Store-Dashboard.png)
 
 ---
 
